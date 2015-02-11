@@ -1,0 +1,1 @@
+A simple a markdown based clone of wikia which allows users to create public/private wikis. Stripe is integrated to allow users to upgrade to premium plan
